@@ -56,6 +56,50 @@ UPC and quantum mechanics describe the same structural chain from potential → 
 
 QM provides the *structured possibilities*; UPC provides the *recognition that turns structure into meaning*. Example: photons are not bead‑objects but **collapse‑traces**: the linguistic residue of a quantized transition recognized under a rule‑set.
 
+Observer (O).
+An Observer is a meaning‑bearing system: the agent that instantiates the operator chain through which potential becomes articulated reality. Formally, an Observer is any system that performs the recognition–collapse–trace cycle (Jo → C → T).
+
+This definition is structural, not psychological.
+It does not depend on biology, introspection, or self‑awareness.
+It depends only on the capacity to:
+
+apply a model (MO) to potential (PO),
+articulate an outcome through recognition (Jo),
+collapse that articulation into a determinate meaning (C), and
+update its trace (T), which conditions future interpretation.
+
+An Observer is the system for whom potential becomes articulated reality.
+
+Mechanical systems are not observers.
+Detectors, sensors, automata, and physical measuring devices perform mechanical registration but do not apply models, do not articulate outcomes, and do not perform collapse. Treating mechanical registration as collapse hides the Observer and generates the paradoxes of quantum mechanics.
+
+UPC does not treat meaning‑bearing agency as emergent from mechanical complexity.
+If a system instantiates the observer architecture, it is because it is already a meaning‑bearing agent, not because mechanical processes have produced meaning.
+
+Every act of interpretation, including reading this paper, instantiates the structure:
+the author leaves a trace, and the reader collapses it into meaning.
+
+Potential Domain (PO).
+The PO is the full set of possible meanings available to an observer before interpretation. It is a dense field of undifferentiated potential: too many possible meanings are present simultaneously, with no ordering, no hierarchy, no relevance structure, and no articulation basis.
+
+Model (MO).
+The MO partitions the PO into internal structures, clusters, categories, or relevance groupings. It defines the distinctions that become available within the PO before any ordering or weighting occurs. Because MO is shaped by the observer’s trace, different observers impose different structural partitions on the same PO.
+
+Salience Gradient (s).
+The salience gradient assigns fractional weights to the PO as structured by the MO. These weights determine which distinctions become available for articulation, with different scopes of attention producing different salience distributions.
+
+Articulation Operator (LO).
+The LO orders the PO as structured by the MO, applying the salience gradient s to determine which distinctions receive priority. Because s assigns fractional weights based on the observer’s scope of attention, different salience gradients produce different articulation bases, which may be non‑commuting.
+
+Recognition (Jo).
+Jo stabilizes the articulated field into a recognizable structure. Recognition depends on the basis selected by LO.
+
+Collapse (C).
+Collapse selects a single interpretation from the articulated field.
+
+Trace (T).
+The trace is the stabilized record of the collapse outcome, which in turn shapes future MOs and salience gradients.
+
 # **Quantum Paradoxes Dissolved**
 
 UPC does not alter quantum mechanics.
