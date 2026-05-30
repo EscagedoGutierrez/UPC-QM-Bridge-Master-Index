@@ -18,6 +18,8 @@ Across 559 pages, Escagedo Gutierrez demonstrates that physics, consciousness, a
 
 ### UPC — Universal Principle of Collapse (Starter Edition)
 [https://escagedogutierrez.github.io/UPC-QM-Bridge-Master-Index](https://escagedogutierrez.github.io/UPC-QM-Bridge-Master-Index)
+
+A self‑contained Python engine that stabilizes AI reasoning by converting raw, ambiguous input into deterministic, observer‑indexed meaning. The Starter Edition implements the full UPC collapse pipeline (PO → MO → s → LO → Jo → C → T) with no external dependencies.
  
 # UPC-QM Bridge Definitions (compact)
 
