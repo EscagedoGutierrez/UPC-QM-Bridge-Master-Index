@@ -16,7 +16,7 @@ Across 559 pages, Escagedo Gutierrez demonstrates that physics, consciousness, a
 
 **This is not an interpretation. It is a structural correction.**
 
-### Theoretical Foundation (UPC‑QM Bridge Master Index)
+### UPC — Universal Principle of Collapse (Starter Edition)
 https://escagedogutierrez.github.io/UPC-QM-Bridge-Master-Index
  
 # UPC-QM Bridge Definitions (compact)
