@@ -16,6 +16,9 @@ Across 559 pages, Escagedo Gutierrez demonstrates that physics, consciousness, a
 
 **This is not an interpretation. It is a structural correction.**
 
+### Theoretical Foundation (UPC‑QM Bridge Master Index)
+https://escagedogutierrez.github.io/UPC-QM-Bridge-Master-Index
+ 
 # UPC-QM Bridge Definitions (compact)
 
 **One‑to‑One Correspondence**
